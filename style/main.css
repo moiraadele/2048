@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
-  color: #776e65;
+  color: #FFA366;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -60,7 +60,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: #FFFFA6;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -72,7 +72,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #eee4da; }
+    color: #E6CC80; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
@@ -101,7 +101,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: #E6CC80;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
